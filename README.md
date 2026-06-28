@@ -1,11 +1,11 @@
 <h2> Slide/Carousel test for FE dev position in "Only"</h2>
 
-Available: https://i0ji.github.io/t_only_calendar/
+Available: https://i0ji.github.io/only-alendar/
 
 <h3>To run:</h5>
 <b>Powershell/bash:</b><br>
-1: using powershell/bash <code>git clone https://github.com/i0ji/t_only_calendar</code><br>
-2: <code>cd t_only_calendar</code><br>
+1: using powershell/bash <code>git clone https://github.com/i0ji/only-alendar</code><br>
+2: <code>cd only-alendar</code><br>
 3: <code>pnpm install</code><br>
 4: <code>pnpm start</code><br>
 5: open <code>http://localhost:3000/</code> in browser<br>
@@ -34,6 +34,8 @@ Available: https://i0ji.github.io/t_only_calendar/
 </ul>
 
 <h3>Short commit comments:</h5> 
+05.03.26:
+deps update; rename repo block accoridng to new naming and tagin conditions;
 21.05.25:
 project init using webpack/react/sass/ts/git flow; repo init; first dev run; styling and preparigne env;
 main markup, style, set webpack;<br>
